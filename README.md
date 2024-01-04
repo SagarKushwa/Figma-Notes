@@ -14,7 +14,7 @@
 
 ### Here we'll only learn Figma design.
 
-### Figma design files
+## Figma design files
   - Figma design files are powerful, collaborative environments where you turn your ideas into responsive and interactive designs.
 
 ### Toolbar
